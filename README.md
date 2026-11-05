@@ -1,5 +1,5 @@
 The Navisworks MCP plugin has 73 tools, and has a feature that lists every tool with its description.
-The MCP is initially called with Cherry
+The MCP is initially called with **Cherry**
 
 # Deployment
 1. **Build**: Double-click `build.bat`. It uses the `csc.exe` that ships with Windows, and the code is written in C# 5 syntax, so Visual Studio is not required. The Navisworks path is set to `%ProgramFiles%\Autodesk\Navisworks Manage 2024` by default.
