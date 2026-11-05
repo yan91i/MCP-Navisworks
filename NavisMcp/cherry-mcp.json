@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "navisworks": {
+      "name": "Navisworks MCP",
+      "type": "streamableHttp",
+      "baseUrl": "http://127.0.0.1:3900/mcp",
+      "url": "http://127.0.0.1:3900/mcp",
+      "isActive": true
+    }
+  }
+}
